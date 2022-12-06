@@ -1,0 +1,56 @@
+.first-color { 
+	background: #233142; 
+}
+	
+.second-color { 
+	background: #455d7a; 
+}
+
+.third-color { 
+	background: #f95959; 
+}
+
+body { 
+	background: #e3e3e3; 
+    font-family: 'Roboto', sans-serif;
+
+}
+.image-thumbnail {
+    width
+}
+#mainNav {
+    font-size: 1.5em;
+    font-weight: 100;
+
+}
+#mainNav .navbar-brand
+{
+    color: #f95959;
+    
+}
+#mainNav .nav-link:hover{
+    color: #f95959;
+}
+
+@media (max-width:1200){
+    #headingGroup h1{
+        font-weight: 100;
+        font-size: 3rem;
+    }
+}
+.navbar-brand {
+    font-weight: 800;
+    font-size: x-large;
+}
+.footer{
+    background-color: #f95959;
+    color: #e3e3e3;
+    
+    bottom:0;
+    width:100%;
+    
+}
+.terms li , .foot li{
+    display: inline;
+}
+.
